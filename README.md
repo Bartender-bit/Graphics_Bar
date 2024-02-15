@@ -1,13 +1,12 @@
 # 基于html开发的在线网址导航
 
+正在制作中，未来计划做成一个Graphics资源导航网站
+
+
 ## 部署步骤
 
 将全部文件复制到服务器，入口文件是index.html
 
-
-## 在线预览
-
-https://geeeeeeeek.github.io/web_tool/
 
 
 ## 二次开发
